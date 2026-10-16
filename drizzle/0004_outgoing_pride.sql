@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `email_public` integer DEFAULT 0 NOT NULL;

@@ -1,0 +1,1 @@
+ALTER TABLE `posts` ADD `summary_requested_at` integer;

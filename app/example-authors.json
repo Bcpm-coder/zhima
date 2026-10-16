@@ -1,0 +1,152 @@
+[
+  {
+    "id": "seed:1001",
+    "username": "许墨",
+    "occupation": "前端开发",
+    "position": "前端工程师",
+    "company": "",
+    "bio": "关注组件设计、类型系统与可维护的界面。",
+    "isExample": true,
+    "created_at": 1792062531469
+  },
+  {
+    "id": "seed:1004",
+    "username": "沈砚",
+    "occupation": "后端开发",
+    "position": "服务端工程师",
+    "company": "",
+    "bio": "把接口、数据和复杂业务拆成可以验证的小问题。",
+    "isExample": true,
+    "created_at": 1792062531469
+  },
+  {
+    "id": "seed:1007",
+    "username": "顾知",
+    "occupation": "人工智能",
+    "position": "AI 应用工程师",
+    "company": "",
+    "bio": "记录检索、评估和模型输出落地中的工程取舍。",
+    "isExample": true,
+    "created_at": 1792062531469
+  },
+  {
+    "id": "seed:1010",
+    "username": "苏禾",
+    "occupation": "移动开发",
+    "position": "移动端工程师",
+    "company": "",
+    "bio": "从弱网、滚动和系统权限出发改善使用体验。",
+    "isExample": true,
+    "created_at": 1792062531469
+  },
+  {
+    "id": "seed:1013",
+    "username": "程野",
+    "occupation": "开发工具",
+    "position": "工程效率实践者",
+    "company": "",
+    "bio": "分享调试、版本管理与自动化的小方法。",
+    "isExample": true,
+    "created_at": 1792062531469
+  },
+  {
+    "id": "seed:1016",
+    "username": "林序",
+    "occupation": "数据工程",
+    "position": "数据工程师",
+    "company": "",
+    "bio": "用清晰的指标口径与数据模型解释产品行为。",
+    "isExample": true,
+    "created_at": 1792062531469
+  },
+  {
+    "id": "seed:1019",
+    "username": "温予",
+    "occupation": "软件工程",
+    "position": "技术写作者",
+    "company": "",
+    "bio": "关注技术复盘、团队协作与长期成长。",
+    "isExample": true,
+    "created_at": 1792062531469
+  },
+  {
+    "id": "seed:1022",
+    "username": "知码编辑部",
+    "occupation": "产品与工程",
+    "position": "社区示例内容",
+    "company": "",
+    "bio": "用可运行的小例子，解释值得反复练习的工程基础。",
+    "isExample": true,
+    "created_at": 1792062531469
+  },
+  {
+    "id": "seed:1",
+    "username": "林间有风",
+    "occupation": "前端",
+    "position": "技术分享者",
+    "company": "",
+    "bio": "分享前端领域的学习笔记与实践思考。",
+    "isExample": true,
+    "created_at": 1792062531469
+  },
+  {
+    "id": "seed:2",
+    "username": "码农小周",
+    "occupation": "人工智能",
+    "position": "技术分享者",
+    "company": "",
+    "bio": "分享人工智能领域的学习笔记与实践思考。",
+    "isExample": true,
+    "created_at": 1792062531469
+  },
+  {
+    "id": "seed:3",
+    "username": "前端小满",
+    "occupation": "前端",
+    "position": "技术分享者",
+    "company": "",
+    "bio": "分享前端领域的学习笔记与实践思考。",
+    "isExample": true,
+    "created_at": 1792062531469
+  },
+  {
+    "id": "seed:4",
+    "username": "沉默的架构师",
+    "occupation": "后端",
+    "position": "技术分享者",
+    "company": "",
+    "bio": "分享后端领域的学习笔记与实践思考。",
+    "isExample": true,
+    "created_at": 1792062531469
+  },
+  {
+    "id": "seed:5",
+    "username": "工具箱同学",
+    "occupation": "开发工具",
+    "position": "技术分享者",
+    "company": "",
+    "bio": "分享开发工具领域的学习笔记与实践思考。",
+    "isExample": true,
+    "created_at": 1792062531469
+  },
+  {
+    "id": "seed:6",
+    "username": "一只 iOS",
+    "occupation": "移动开发",
+    "position": "技术分享者",
+    "company": "",
+    "bio": "分享移动开发领域的学习笔记与实践思考。",
+    "isExample": true,
+    "created_at": 1792062531469
+  },
+  {
+    "id": "seed:7",
+    "username": "南山",
+    "occupation": "阅读",
+    "position": "技术分享者",
+    "company": "",
+    "bio": "分享阅读领域的学习笔记与实践思考。",
+    "isExample": true,
+    "created_at": 1792062531469
+  }
+]
